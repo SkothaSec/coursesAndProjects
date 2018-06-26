@@ -7,8 +7,9 @@ Link To Course: https://www.udemy.com/node-with-react-fullstack-web-development/
 Stephen Grider's Github: https://github.com/StephenGrider
 
 Things Used:
+
 | App/Tech | Link |
-| :------- | -------: |
+|:-------:|:-------|
 | NodeJS   |    |
 | ReactJS  |    |
 | MongoDB  |    |
