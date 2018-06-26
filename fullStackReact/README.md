@@ -8,16 +8,16 @@ Stephen Grider's Github: https://github.com/StephenGrider
 
 Things Used:
 
-| App/Tech | Link |
-|:-------:|:-------|
-| NodeJS   |    |
-| ReactJS  |    |
-| MongoDB  |    |
-| Express  |    |
-| Redux    |    |
-| vsCode   |    |
-| Prettier |    |
-| Google 0Auth |    |
+| App/Tech | Version | Link |
+|:-------:|:------|:-------|
+| NodeJS   |    |    |
+| ReactJS  |    |    |
+| MongoDB  |    |    |
+| Express  |    |    |
+| Redux    |    |    |
+| vsCode   |    |    |
+| Prettier |    |    |
+| Google 0Auth |    |    |
 
 ## Table of Contents
 
